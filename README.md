@@ -39,7 +39,7 @@ List of Cart Items: Each item in cartItems is rendered with:
 The product image (img).
 The product title, ID, and price.
 Total Price: The total price of all items in the cart.
-![image](https://github.com/user-attachments/assets/92e89eac-7af3-4c33-912e-b5ad6e705860)
+![image](https://github.com/user-attachments/assets/d2ba0507-0a34-4adf-a677-6bdc514c44b2)
 
 6. Cart Component Execution
 Inside the Cart component:
@@ -57,5 +57,5 @@ Displaying Total Price:
 
 The total price of all items in the cart is shown, using totalPrice.toFixed(2) to format the price to two decimal places.
 
-![image](https://github.com/user-attachments/assets/c7a2b5d7-f8cb-4bee-958f-391deee0cf2d)
+![image](https://github.com/user-attachments/assets/3818101c-78ec-4f0d-af5c-4cc31cb2da3d)
 
